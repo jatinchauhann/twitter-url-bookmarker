@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "name": "URL Book",
+  "launch_path": "/index.html",
+  "description": "URL Book",
+  "developer": {
+    "name": "JatinChauhan",
+    "url": "https://jatinchauhan.in"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "URL Book",
+      "description": "Twitter | URL Book"
+    }
+  }
+}
