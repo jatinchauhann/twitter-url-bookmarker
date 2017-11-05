@@ -1,10 +1,10 @@
 <?php
 
 //Database connectivity
-$servername = "localhost";
-$user = "root";
-$password = "";
-$dbname = "projects";
+$servername = "mysql.hostinger.in";
+$user = "u413000366_qequp";
+$password = "root123#";
+$dbname = "u413000366_xuvar.users";
 $results_per_page = 5;
 
 $conn = mysqli_connect($servername, $user, $password, $dbname);

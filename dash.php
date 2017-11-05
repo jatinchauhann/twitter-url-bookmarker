@@ -7,10 +7,10 @@ $profileimage=$_GET["profileimage"];
 $followers=$_GET["followers"];
 $following=$_GET["following"];
 
-$servername = "localhost";
-$user = "root";
-$password = "";
-$dbname = "projects";
+$servername = "mysql.hostinger.in";
+$user = "u413000366_qequp";
+$password = "root123#";
+$dbname = "u413000366_xuvar.users";
 $results_per_page = 12;
 
 $tweet_found = false;
